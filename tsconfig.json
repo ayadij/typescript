@@ -3,5 +3,5 @@
     "sourceMap": true
   },
   "files": [
-    "005_typescript_config.ts" ]
+    "006_printname.ts" ]
 }
