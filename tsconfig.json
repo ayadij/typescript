@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "012_conditional_operators.ts" ]
+    "013_compound_conditionals.ts" ]
 }
 
 //       tsc
