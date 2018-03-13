@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "002_closures.ts" ]
+    "019_closure_introduction.ts" ]
 }
 
 //       tsc
