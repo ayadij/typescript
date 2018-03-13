@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "004_arrow_functions.ts" ]
+    "017_function_declarations_vs_expressions.ts" ]
 }
 
 //       tsc
