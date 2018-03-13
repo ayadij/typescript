@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "018_immediately_invoked_functions.ts" ]
+    "003_immediatel_invoked_arguments.ts" ]
 }
 
 //       tsc
