@@ -7,4 +7,5 @@ var counter = 0;
 })();
 console.log(counter);
 // functions that are ran whent he interpreter or parser reaches that line of code
+// syntax.       the parenthesis 
 //# sourceMappingURL=018_immediately_invoked_functions.js.map

@@ -12,3 +12,5 @@ console.log(counter);
 
 
 // functions that are ran whent he interpreter or parser reaches that line of code
+
+// syntax.       the parenthesis 
