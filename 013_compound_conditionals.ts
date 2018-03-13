@@ -8,6 +8,15 @@ let password : string = 'asdfasdf';
 // }
 
 
+// if (email == 'test@test.com' && password == 'asdfasdf') {
+//  console.log('You are authorized');
+// } else {
+//  console.log('Permission denied');
+// }
+
+
 if (!(email == 'test@test.com')) {
   console.log('You are authorized');
+} else {
+  console.log('Permission denied');
 }
