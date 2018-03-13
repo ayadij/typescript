@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "003_immediatel_invoked_arguments.ts" ]
+    "002_closures.ts" ]
 }
 
 //       tsc
