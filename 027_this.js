@@ -9,7 +9,7 @@ var Invoice = /** @class */ (function () {
     //  setTimeout(function() {
     //    console.log(this.total);
     //  }, time);
-    // }
+    // }. this is outside of scope. it is nested too deep
     Invoice.prototype.printLater = function (time) {
         var _this = this;
         setTimeout(function () {
