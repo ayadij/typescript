@@ -28,6 +28,8 @@ namespace Content {
     seoKeywords: string;
   }
 
+
+// export maeks available
   export class Post implements IPost {
     title: string;
     body: string;
@@ -66,3 +68,10 @@ var contentPost = new Content.Post({
 });
 
 contentPost.printPost();
+
+
+
+// namespace = modules
+// protect teh naming of things with namespace
+// nice way of organizing code
+// 
