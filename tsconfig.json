@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "024_interface_functions" ]
+    "025_interface_classes.ts" ]
 }
 
 //       tsc
