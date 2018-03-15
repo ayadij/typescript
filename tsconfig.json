@@ -1,29 +1,14 @@
+
 {
   "compilerOptions": {
+    "module": "amd",
+    //"target": "es6", // sudo typings install dt~es6-promise dt~es6-collections --global --save
+     "target": "ES5",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata" : true,
     "sourceMap": true
   },
   "files": [
-    "028_higher_order_functions_callbacks.ts" ]
+    "030_.ts"
+  ]
 }
-
-//       tsc
-
-
-
-
-
-
-
-// {
-//   "compilerOptions": {
-//     "module": "amd",
-//     // "target": "es6", // sudo typings install dt~es6-promise dt~es6-collections --global --save
-//     "target": "ES5",
-//     "experimentalDecorators": true,
-//     "emitDecoratorMetadata" : true,
-//     "sourceMap": true
-//   },
-//   "files": [
-//     "033_decorator_example_angular.ts"
-//   ]
-// }
