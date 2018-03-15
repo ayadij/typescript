@@ -9,6 +9,6 @@
     "sourceMap": true
   },
   "files": [
-    "030_.ts"
+    "030_decorator_introduction.ts"
   ]
 }
